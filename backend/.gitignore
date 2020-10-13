@@ -3,3 +3,5 @@ yarn-error.lock
 
 ormconfig.json
 database.sqlite
+
+uploads/*
