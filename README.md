@@ -25,10 +25,10 @@
 
 ### Mobile Screenshot
 <div>
-   <img src="https://i.ibb.co/RCdcT7M/Screenshot-1603105830.png" width="230">
-   <img src="https://i.ibb.co/fr4wsZ1/Screenshot-1603105838.png" width="230">
-   <img src="https://i.ibb.co/7k93KN9/Screenshot-1603105847.png" width="230">
-   <img src="https://i.ibb.co/CnH3XKk/Screenshot-1603105860.png" width="230">
+   <img src="https://i.ibb.co/RCdcT7M/Screenshot-1603105830.png" width="220">
+   <img src="https://i.ibb.co/fr4wsZ1/Screenshot-1603105838.png" width="220">
+   <img src="https://i.ibb.co/7k93KN9/Screenshot-1603105847.png" width="220">
+   <img src="https://i.ibb.co/CnH3XKk/Screenshot-1603105860.png" width="220">
 </div>
 
 # :computer: Technologies
