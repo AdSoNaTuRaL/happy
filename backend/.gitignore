@@ -2,7 +2,9 @@ node_modules
 yarn-error.lock
 
 ormconfig.json
+ormconfig.example.json
 database.sqlite
+database.example.sqlite
 
 uploads/*
-!uploads/.gitkeep
+!uploads/.gitkeepg
