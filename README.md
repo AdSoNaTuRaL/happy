@@ -48,6 +48,7 @@ This project was made using the follow technologies:
 # Clone Repository
 $ git clone https://github.com/AdSoNaTuRaL/happy.git
 ```
+
 ### 📦 Run API
 
 ```bash
@@ -56,11 +57,18 @@ $ cd happy/backend
 
 # Install Dependencies
 $ yarn
+```
+> ⚠ Before running the API, you need to rename the ORM configuration file `ormconfig.example.json` to `ormconfig.json` and then set your configurations there. 
 
+> ⚠ Pre-existing configurations are valid. 
+
+> ⚠ In addition, you must to run the migrations using `yarn typeorm migration:run`
+
+```bash
 # Run Aplication
 $ yarn dev
 ```
-Access API at http://localhost:3334/
+API is accessible at http://localhost:3334/
 
 ### 💻 Run Web Project
 
@@ -70,7 +78,10 @@ $ cd happy/web
 
 # Install Dependencies
 $ yarn
+```
+> ⚠ Before running the web project, you need to rename the env file `.env.example` to `.env` and then set your configuration there. You will need the mapbox access token, you can check about it [here](https://docs.mapbox.com/help/getting-started/access-tokens/).
 
+```bash
 # Run Aplication
 $ yarn start
 ```
@@ -97,3 +108,4 @@ Aferter read the QRCode with the app of [expo](https://play.google.com/store/app
 # :bug: Issues
 
 Feel free to **create a new issue** with a respective title and description on the [Happy](https://github.com/AdSoNaTuRaL/happy/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
+<>
