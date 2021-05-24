@@ -18,7 +18,7 @@ export default {
         return response.json(orphanagesView.render(orphanage));
     },
 
-    async index(request: Request, response: Response) {
+    async index(_: Request, response: Response) {
         const orphanagesRepository = getRepository(Orphanage);
 
         const orphanages = await orphanagesRepository.find({
@@ -43,7 +43,7 @@ export default {
 
         const requestImages =  request.files as Express.Multer.File[];
         const images = requestImages.map(image => {
-            return { path: image.filename}
+            return { path: image.filename }
         })
 
         const data = {
