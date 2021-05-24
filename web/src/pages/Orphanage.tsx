@@ -42,8 +42,6 @@ export default function Orphanage() {
     return <p>Carregando...</p>;
   }
 
-  console.log(orphanage);
-
   return (
     <div id="page-orphanage">
       <Sidebar />
