@@ -2,12 +2,8 @@
    <img src="https://user-images.githubusercontent.com/26275918/96444639-e4a82900-120e-11eb-9d8c-69c941c6bdce.png" alt="Happy" width="280"/>
 </p>
 
-> :rocket: Project made to connect people to orphanages, made in Next Level Week #3 @Rocketseat
-
 <div align="center">
-  <sub>The NLW #3 project. Built with ❤︎ by
-    <a href="https://github.com/AdSoNaTuRaL">Adson Henrique</a>
-  </sub>
+  <h4>:rocket: Project made to connect people to orphanages</h4>
 </div>
 
 # :pushpin: Table of Contents
